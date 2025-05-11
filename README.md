@@ -63,6 +63,10 @@ This app can be easily deployed to services like Vercel or Netlify:
 
  This project uses the [TMDB API](https://www.themoviedb.org/documentation/api) for movie data and the <!--[YouTube API](https://developers.google.com/youtube/v3) for trailers. -->
 
+## Deployment URL
+
+[https://movie-explorer-sage-three.vercel.app/
+](https://movie-explorer-sage-three.vercel.app/)
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
